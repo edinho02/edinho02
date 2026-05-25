@@ -63,7 +63,7 @@ Currently studying and working with:
 # 🚀 Technologies
 
 ```txt
-JavaScript • TypeScript • Node.js • Vue.js • React
+JavaScript • Java • TypeScript • Node.js • Vue.js • React
 Golang • PostgreSQL • Docker • Git • Linux
 APIs • DevOps • SQL • Regex • Backend
 ```
