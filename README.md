@@ -36,7 +36,7 @@ Currently studying and working with:
 
 # 📚 Personal Knowledge Base
 
-Repository dedicated to personal notes, studies, experiments, snippets, and development references.
+[my-cources](https://github.com/edsonandreassa/my-cources) is a repository dedicated to personal notes, studies, experiments, snippets, and development references.
 
 ## 📖 Courses
 
