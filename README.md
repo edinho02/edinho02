@@ -3,8 +3,8 @@
 # Edson Andreassa
 
 [![Website](https://img.shields.io/badge/website-edsonandreassa.com-0A66C2?style=flat-square)](http://edsonandreassa.com/)
-[![GitHub](https://img.shields.io/badge/github-edsonandreassa-181717?style=flat-square&logo=github)](https://github.com/)
-[![Email](https://img.shields.io/badge/email-contact-16a34a?style=flat-square&logo=gmail)](mailto:contato@edsonandreassa.com)
+[![GitHub](https://img.shields.io/badge/github-edinho02-181717?style=flat-square&logo=github)](https://github.com/)
+[![Email](https://img.shields.io/badge/email-edson@edsonandreassa.com-16a34a?style=flat-square&logo=gmail)](mailto:edson@edsonandreassa.com)
 
 </div>
 
@@ -36,7 +36,7 @@ Currently studying and working with:
 
 # 📚 Personal Knowledge Base
 
-[my-cources](https://github.com/edsonandreassa/my-cources) is a repository dedicated to personal notes, studies, experiments, snippets, and development references.
+[my-cources](https://github.com/edinho02/my-cources) is a repository dedicated to personal notes, studies, experiments, snippets, and development references.
 
 ## 📖 Courses
 
