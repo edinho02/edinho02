@@ -5,8 +5,7 @@
 [![Website](https://img.shields.io/badge/website-edsonandreassa.com-0A66C2?style=flat-square)](https://edsonandreassa.com/)
 [![GitHub](https://img.shields.io/badge/github-edinho02-181717?style=flat-square&logo=github)](https://github.com/edinho02)
 [![Email](https://img.shields.io/badge/email-edson@edsonandreassa.com-16a34a?style=flat-square&logo=gmail)](mailto:edson@edsonandreassa.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-edsonandreassa.com-0A66C2?style=flat-square&logo=google-chrome)](http://edsonandreassa.com/)
-[![Featured Project](https://img.shields.io/badge/project-my--cources-181717?style=flat-square&logo=github)](https://github.com/edsonandreassa/my-cources)
+[![Learning Progress](https://img.shields.io/badge/project-my--cources-181717?style=flat-square&logo=github)](https://github.com/edinho02/my-courses)
 
 </div>
 
