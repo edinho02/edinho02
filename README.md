@@ -2,8 +2,8 @@
 
 # Edson Andreassa
 
-[![Website](https://img.shields.io/badge/website-edsonandreassa.com-0A66C2?style=flat-square)](http://edsonandreassa.com/)
-[![GitHub](https://img.shields.io/badge/github-edinho02-181717?style=flat-square&logo=github)](https://github.com/)
+[![Website](https://img.shields.io/badge/website-edsonandreassa.com-0A66C2?style=flat-square)](https://edsonandreassa.com/)
+[![GitHub](https://img.shields.io/badge/github-edinho02-181717?style=flat-square&logo=github)](https://github.com/edinho02)
 [![Email](https://img.shields.io/badge/email-edson@edsonandreassa.com-16a34a?style=flat-square&logo=gmail)](mailto:edson@edsonandreassa.com)
 
 </div>
@@ -64,3 +64,27 @@ Currently studying and working with:
 JavaScript • TypeScript • Node.js • Vue.js • React
 Golang • PostgreSQL • Docker • Git • Linux
 APIs • DevOps • SQL • Regex • Backend
+```
+
+
+---
+
+# 👨‍💻 Author
+
+**Edson Andreassa**
+
+Software Developer passionate about technology, backend systems, frontend development, databases, automation, and continuous learning.
+
+🌐 Website: [Personal Portifolio](https://edsonandreassa.com/)
+
+---
+
+
+---
+
+<div align="center">
+
+Made with 💻 by <a href="https://edsonandreassa.com/">Edson Andreassa</a>
+
+</div>
+
