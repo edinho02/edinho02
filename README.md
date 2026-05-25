@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**edinho02/edinho02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Edson Andreassa
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/website-edsonandreassa.com-0A66C2?style=flat-square)](http://edsonandreassa.com/)
+[![GitHub](https://img.shields.io/badge/github-edsonandreassa-181717?style=flat-square&logo=github)](https://github.com/)
+[![Email](https://img.shields.io/badge/email-contact-16a34a?style=flat-square&logo=gmail)](mailto:contato@edsonandreassa.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br />
+
+<img src="./assets/profile.jpg" align="right" width="180" style="border-radius: 12px;" />
+
+Software Developer focused on backend engineering, web applications, databases, automation, and modern software architecture.
+
+Passionate about technology, continuous learning, performance optimization, and building scalable solutions using modern development tools and frameworks.
+
+Currently studying and working with:
+
+- JavaScript / TypeScript
+- Node.js
+- Vue.js & React
+- Golang
+- PostgreSQL
+- Docker
+- APIs & Integrations
+- Software Architecture
+- DevOps & Automation
+
+> “Persistence and consistency are more important than intensity.”
+
+<br clear="right"/>
+
+---
+
+# 📚 Personal Knowledge Base
+
+Repository dedicated to personal notes, studies, experiments, snippets, and development references.
+
+## 📖 Courses
+
+### Udemy
+
+| Identifier | Course |
+|---|---|
+| `curso-web` | [Curso Web Moderno Completo com JavaScript](https://www.udemy.com/course/curso-web/) |
+| `curso-vue-js-2` | [Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/course/vue-js-completo/) |
+| `curso-react` | [Curso React + Redux: Fundamentos e Aplicações Modernas](https://www.udemy.com/course/react-redux-pt/) |
+| `curso-regex` | [Fundamentos de Expressões Regulares (Regex)](https://www.udemy.com/course/curso-regex/) |
+| `curso-golang` | [Go (Golang): Explorando a Linguagem do Google](https://www.udemy.com/course/curso-go/) |
+
+### VueMastery
+
+| Identifier | Course |
+|---|---|
+| `vue2` | [Vue.js](https://www.vuemastery.com/courses/) |
+
+---
+
+# 🚀 Technologies
+
+```txt
+JavaScript • TypeScript • Node.js • Vue.js • React
+Golang • PostgreSQL • Docker • Git • Linux
+APIs • DevOps • SQL • Regex • Backend
