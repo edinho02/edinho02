@@ -20,6 +20,7 @@ Passionate about technology, continuous learning, performance optimization, and 
 Currently studying and working with:
 
 - JavaScript / TypeScript
+- Java
 - Node.js
 - Vue.js & React
 - Golang
