@@ -11,7 +11,7 @@
 
 <br />
 
-<img src="./assets/profile.jpg" align="right" width="180" style="border-radius: 12px;" />
+<!-- <img src="./assets/profile.jpg" align="right" width="180" style="border-radius: 12px;" /> -->
 
 Software Developer focused on backend engineering, web applications, databases, automation, and modern software architecture.
 
