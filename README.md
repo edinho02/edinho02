@@ -79,12 +79,8 @@ Software Developer passionate about technology, backend systems, frontend develo
 
 ---
 
-
----
-
 <div align="center">
 
 Made with 💻 by <a href="https://edsonandreassa.com/">Edson Andreassa</a>
 
 </div>
-
